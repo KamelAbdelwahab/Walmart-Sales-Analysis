@@ -37,9 +37,10 @@ This project provides a comprehensive analysis of Walmart sales data using **Pow
 ---
 
 ## 🧠 Analysis Summary
-The dashboard highlights how external factors affect sales trends over different weeks and holidays.
 
-Key insights also help improve promotion planning, operations, and inventory management.
+The dashboard provides a clear overview of how external factors—such as holidays, fuel prices, unemployment, and temperatures—affect weekly sales trends at Walmart stores.
+
+These insights support more effective promotional planning, operational decisions, and inventory management.
 
 ---
 
