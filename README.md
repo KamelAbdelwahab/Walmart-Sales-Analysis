@@ -44,10 +44,14 @@ Key insights also help improve promotional planning, operations, and inventory m
 
 ---
 
-📬 **Contact** &nbsp; 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/kamel-abd-elwahab-212748291/)
-&nbsp;
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](kamel65667@gmail.com)
+<p><strong>📬 Contact</strong>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kamel-abd-elwahab-212748291/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+</a>&nbsp;
+<a href="kamel65667@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email">
+</a>
+</p>
 
 ---
 
