@@ -46,8 +46,8 @@ Key insights also help improve promotional planning, operations, and inventory m
 
 ## 📬 Contact
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/omar-shoman/](https://www.linkedin.com/in/kamel-abd-elwahab-212748291)
-- ✉️ [Email]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kamel-abd-elwahab-212748291/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square)]()
 
 ---
 
