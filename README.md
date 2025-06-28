@@ -9,6 +9,16 @@ A comprehensive analysis of Walmart sales data using **Power BI**, aimed at unde
 
 ---
 
+## 🎯 Objectives
+
+- Analyze weekly sales performance across all Walmart stores.
+- Identify the impact of holidays, fuel prices, temperature, CPI, and unemployment on sales.
+- Compare sales during holiday weeks vs. non-holiday weeks.
+- Discover trends and seasonal patterns to support better decision-making.
+- Provide actionable insights for planning promotions and optimizing inventory.
+
+---
+
 ## 🛠️ Tools Used
 - Microsoft Power BI
 - Excel/CSV Dataset (Imported from Kaggle)
