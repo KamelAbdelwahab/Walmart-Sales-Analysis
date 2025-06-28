@@ -44,6 +44,13 @@ Key insights also help improve promotional planning, operations, and inventory m
 
 ---
 
+## 📬 Contact
+
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/omar-shoman/](https://www.linkedin.com/in/kamel-abd-elwahab-212748291)
+- ✉️ [Email]()
+
+---
+
 ## 📸 Dashboard Preview
 
 ### 🟢 Overall Performance
