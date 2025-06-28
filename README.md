@@ -32,15 +32,15 @@ Key insights also help improve promotion planning, operations, and inventory man
 ## 📸 Dashboard Preview
 
 ### 🟢 Overall Performance
-![Dashboard Overview](Dashboard-Overview.png)
+![Dashboard Overview](images/Dashboard-Overview.png)
 
 ### 🔵 Factor Analysis
-![Factor Analysis](Factors-Analysis.png)
+![Factor Analysis](images/Factors-Analysis.png)
 
 ### 🟡 Time Sales Trends
-![Time Analysis](Time-Analysis.png)
+![Time Analysis](images/Time-Analysis.png)
 
 ### 🟣 Summary & Insights
-![Summary & Insights](Summary-Insights.png)
+![Summary & Insights](images/Summary-Insights.png)
 
 ---
