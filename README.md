@@ -28,9 +28,11 @@ This project provides a comprehensive analysis of Walmart sales data using **Pow
 ---
 
 ## 🧾 Attached Files
-- `Walmart_Sales_Analysis.pbix` - Power BI report file.
-- `Walmart_Weekly_Sales.csv` - The raw dataset used for the analysis.
-- `dashboard.png` - A screenshot of the final dashboard.
+
+- `Walmart_Sales_Analysis.pbix` – Power BI report file.
+- `Walmart_Weekly_Sales.csv` – The raw dataset used for the analysis.
+- `images/dashboard.png` – A screenshot of the final dashboard preview.
+- `Project_Steps.pdf` – A step-by-step documentation of the entire data analysis process.
 
 ---
 
