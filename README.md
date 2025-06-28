@@ -1,10 +1,12 @@
 # 📊 Walmart Sales Analysis
 
-A comprehensive analysis of Walmart sales data using **Power BI**, aimed at understanding the **key factors affecting weekly sales**, such as:
+## 📌 Project Overview
 
-- 🟠 Temperature
-- 🔵 Unemployment Rate
-- 🟢 Public Holidays
+This project provides a comprehensive analysis of Walmart sales data using **Power BI**, with a focus on understanding the key factors that influence weekly sales performance — including:
+
+- 🟠 Temperature  
+- 🔵 Unemployment Rate  
+- 🟢 Public Holidays  
 - 🟣 Fuel Prices
 
 ---
